@@ -9,4 +9,4 @@ Basic functionality, but I will need to replace most of the images and add featu
  * Instructions
 
 # Dependencies
-pygame
+* pygame
