@@ -7,3 +7,6 @@ Basic functionality, but I will need to replace most of the images and add featu
  * Add your own pictures for the characters in the storyline
  * Prevent you from going to the next level if you haven't picked up the drops from the aliens
  * Instructions
+
+# Dependencies
+pygame
